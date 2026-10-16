@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0E0F13"
+      }
+    },
+    "experiments": {
+      "typedRoutes": true
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "name": "SlabVault",
+    "newArchEnabled": true,
+    "orientation": "portrait",
+    "plugins": [
+      "expo-router",
+      "expo-status-bar"
+    ],
+    "scheme": "slabvault",
+    "slug": "slabvault",
+    "splash": {
+      "backgroundColor": "#0E0F13"
+    },
+    "userInterfaceStyle": "dark",
+    "version": "1.0.0",
+    "web": {
+      "bundler": "metro",
+      "name": "SlabVault",
+      "output": "static"
+    }
+  }
+}
